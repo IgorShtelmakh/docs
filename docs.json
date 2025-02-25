@@ -56,6 +56,11 @@
           "anchor": "Respaid Website",
           "href": "https://www.respaid.com/",
           "icon": "book-open-cover"
+        },
+        {
+          "anchor": "Respaid support portal",
+          "href": "http://ask.respaid.com/",
+          "icon": "book-open-cover"
         }
       ]
     }
