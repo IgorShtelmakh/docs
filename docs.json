@@ -30,7 +30,8 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets",
-              "essentials/terms_of_use"
+              "essentials/terms_of_use",
+              "essentials/respaid_prio_framework"
             ]
           }
         ]
